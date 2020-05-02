@@ -42,6 +42,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Struct\MyQueue.cs" />
     <Compile Include="Struct\MyStack.cs" />
+    <Compile Include="Test\QueueTest.cs" />
     <Compile Include="Test\StackTest.cs" />
   </ItemGroup>
   <ItemGroup>

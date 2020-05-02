@@ -10,7 +10,9 @@ namespace Algorithms
             Console.WriteLine("Stack Test:");
             Console.WriteLine("**********************************");
             StackTest.Go();
-            
+            Console.WriteLine("Queue Test:");
+            Console.WriteLine("**********************************");
+            QueueTest.Go();
             
             
             Console.ReadKey();
